@@ -41,7 +41,4 @@ The master and gh-pages branch do not share the same ancestry. Please treat them
 
 [Creative Commons](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 =======
-ikebukuro.github.com
-====================
 
-Ikebukuro Official Site
